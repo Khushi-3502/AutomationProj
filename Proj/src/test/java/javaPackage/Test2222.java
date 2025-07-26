@@ -6,7 +6,6 @@ public class Test2222 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Second changes are done");
-		System.out.println("This is new file");
 
 	}
 
